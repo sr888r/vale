@@ -1,6 +1,6 @@
 {
-  "name": "HysteriaHeroku",
-  "description": "Hysteria on heroku",
+  "name": "vale",
+  "description": "vale on",
   "keywords": ["Hysteria"],
   "env": {
     "port": {
@@ -21,11 +21,11 @@
     },
     "upload": {
       "description": "客户端期望的上行速度(默认10mbps)",
-      "value": "30"
+      "value": "20"
     },
     "auth_str": {
       "description": "认证口令",
-      "value": ""
+      "value": "888"
     }
   },
   "website": "https://github.com/sr888r/vale",
